@@ -2,7 +2,7 @@
 """
 Created on Sat Feb  11 12:43:56 2019
 
-@author: harsh Verma , HXV180001
+@author: harsh Verma
 """
 import collections as col
 import nltk
