@@ -23,7 +23,7 @@ To Execute the python program make sure nltk is installed in system, you can do 
 
 To Execute the python program run command :
 
-python3 homework.py Corpus.txt  "The chairman made the decision to bring in a new financial planner ." "The profit of the company was going down last year said by the chief executive . "
+python3 ngram.py Corpus.txt  "The chairman made the decision to bring in a new financial planner ." "The profit of the company was going down last year said by the chief executive . "
 
 This will give the following output :
 
