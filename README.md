@@ -1,20 +1,23 @@
 # NLPProjects
 
 An automatic speech recognition system has provided two written sentences as possible interpretations to a speech input.
+
 S1: The chairman made the decision to bring in a new financial planner .
 S2: The profit of the company was going down last year said by the chief executive .
+
 Using the bigram language model trained on Corpus, find out which of the two sentences is more probable. Compute the probability of each of the two sentences under the two following scenarios:
+
 i. Use the bigram model without smoothing.
+
 ii. Use the bigram model with add-one smoothing
 
 Expected Problems:
+
 Write a computer program to:
 A. For each of the two scenarios, construct the tables with the bigram counts for the two sentences above.
 B. For each of the two scenarios, construct the table with the bigram probabilities for the sentences.
 C. For each of the two scenarios, compute the total probabilities for each sentence S1 and S2.
 
-NLP Assignment 2 By Harsh Verma 
-NetID : HXV180001
 
 To Execute the python program make sure nltk is installed in system, you can do that using command pip install nltk
 
