@@ -1,6 +1,3 @@
-NLP Assignment 2 By Harsh Verma 
-NetID : HXV180001
-
 To Execute the python program make sure nltk is installed in system, you can do that using command pip install nltk
 
 To Execute the python program run command :
