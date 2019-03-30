@@ -1,4 +1,4 @@
-# NLPProjects
+# NLP-Automatic-Speech-Recognization
 
 An automatic speech recognition system has provided two written sentences as possible interpretations to a speech input.
 
